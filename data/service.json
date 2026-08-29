@@ -1,0 +1,40 @@
+{
+ "plan": {
+  "id": "84470188",
+  "date": "August 23, 2026",
+  "title": "Power Up",
+  "sort_date": "2026-08-23T09:00:00Z"
+ },
+ "team": [],
+ "songs": [
+  {
+   "title": "Praises (Be Lifted Up)",
+   "author": "Josh Baldwin",
+   "key": "A"
+  },
+  {
+   "title": "Trust In God",
+   "author": "Brandon Lake, Chris Brown, Mitch Wong, and Steven Furtick",
+   "key": "A"
+  },
+  {
+   "title": "Revelation Song",
+   "author": "Jennie Lee Riddle",
+   "key": "D"
+  },
+  {
+   "title": "I Speak Jesus",
+   "author": "Abby Benton, Carlene Prince, Dustin Smith, Jesse Reeves, Kristen Dutton, and Raina Pratt",
+   "key": "E"
+  }
+ ],
+ "needed": [
+  {
+   "position": "Vocals",
+   "team": "Modern Worship Band",
+   "quantity": 1
+  }
+ ],
+ "fetched": "2026-08-27T22:05:58.249831+00:00",
+ "_note": "Roster removed for the public preview."
+}
